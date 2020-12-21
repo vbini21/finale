@@ -1,0 +1,9 @@
+org\finale\model\Outgoing.class
+org\finale\service\OutgoingService.class
+org\finale\bean\OutgoingListMB.class
+org\finale\bean\AppLists.class
+org\finale\infra\LogonMB.class
+org\finale\bean\OutgoingFormMB.class
+org\finale\model\Outgoing_.class
+org\finale\repository\OutgoingRepository.class
+org\finale\infra\EntityManagerProducer.class

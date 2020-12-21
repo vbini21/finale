@@ -1,0 +1,21 @@
+!!com.github.adminfaces.addon.scaffold.model.EntityConfig
+datatableEditable: false
+datatableReflow: true
+displayField: ''
+fields:
+- hidden: false
+  length: 100
+  name: id
+  required: true
+  type: INPUT_NUMBER
+- hidden: false
+  length: 100
+  name: version
+  required: false
+  type: INPUT_NUMBER
+- hidden: false
+  length: 100
+  name: data
+  required: false
+  type: INPUT_TEXT
+menuIcon: fa fa-circle-o
